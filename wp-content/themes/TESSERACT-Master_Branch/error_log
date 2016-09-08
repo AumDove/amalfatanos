@@ -1,0 +1,2 @@
+[08-Nov-2015 23:26:08 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home3/aumdove/public_html/amalfatanos.com/wp-content/themes/TESSERACT-Master_Branch/index.php on line 14
+[08-Dec-2015 12:22:46 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home3/aumdove/public_html/amalfatanos.com/wp-content/themes/TESSERACT-Master_Branch/404.php on line 8

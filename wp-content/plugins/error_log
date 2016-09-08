@@ -1,0 +1,1 @@
+[30-Sep-2015 22:47:22 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home3/aumdove/public_html/amalfatanos.com/wp-content/plugins/hello.php on line 60
