@@ -1,0 +1,1 @@
+[17-Aug-2016 12:59:36 America/Chicago] PHP Fatal error:  Class 'WP_Filesystem_Base' not found in /home3/aumdove/public_html/amalfatanos.com/wp-admin/includes/class-wp-filesystem-ftpext.php on line 17
